@@ -1,0 +1,6 @@
+{
+  "name": "Alcaldía de Nobsa - Juventudes",
+  "description": "Micrositio institucional para el área de juventudes de la Alcaldía de Nobsa con oferta, eventos, participación y chat de atención en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
