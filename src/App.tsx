@@ -150,7 +150,7 @@ export default function App() {
     { id: "documentos", label: "Normatividad", icon: FileText },
     { id: "galeria", label: "Galería", icon: ImageIcon },
     { id: "contacto", label: "Contacto / PQRS", icon: Mail },
-    { id: "chat", label: "Chat Ciudadano", icon: MessageSquare }
+    //{ id: "chat", label: "Chat Ciudadano", icon: MessageSquare }
   ];
 
   return (
